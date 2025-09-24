@@ -27,4 +27,4 @@ This repository contains my **low-fidelity wireframe** for a Food Delivery Appli
   
 ## 📸 Screenshot
 
-![Interface](interface.png)
+![Interface](Interface.png)
